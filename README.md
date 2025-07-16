@@ -1,4 +1,4 @@
-# Peppybug
+# Olivier Janssen (Alt account)
 
 # 💫 About Me:
 Community Manager, Software tester, Online content moderator and bug hunter.
