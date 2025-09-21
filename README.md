@@ -1,7 +1,7 @@
-# Olivier Janssen (Alt account)
+# Oli4
 
 # 💫 About Me:
-Community Manager, Software tester, Online content moderator and bug hunter.
+
 
 ## 🌐 Socials:
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/peppybug) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/peppybug) 
